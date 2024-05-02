@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yesanisha
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning c,javascipt
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on any small project as an amateur.
 - 📫 How to reach me: you can ping me on anishakumari6145@gmail.com / [www.yesanisha/linkedin.com](https://www.linkedin.com/in/yesanisha/)
 
