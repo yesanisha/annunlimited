@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annunlimited
+- 👋 Hi, I’m @yesanisha
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning c,javascipt
 - 💞️ I’m looking to collaborate on any small project as an amateur.
